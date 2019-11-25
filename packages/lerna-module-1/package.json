@@ -1,6 +1,6 @@
 {
   "name": "@monkeyzz/lerna-module-1",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "zhangz07@163.com <871203zzdd>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "chalk": "^3.0.0"
   },
   "dependencies": {
-    "@monkeyzz/lerna-module-2": "^0.0.3",
+    "@monkeyzz/lerna-module-2": "^0.0.4",
     "lodash": "^4.17.15",
     "semver": "^6.3.0"
   }
